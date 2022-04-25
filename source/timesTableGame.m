@@ -4,7 +4,7 @@ classdef timesTableGame < handle
     % Copyright 2018-2020 The MathWorks, Inc.
     
     properties
-        CurrentTimesTable = 4;
+        CurrentTimesTable = 3;
         CurrentQuestion;
         NumberCorrectAnswers = 0;
     end
